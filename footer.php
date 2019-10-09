@@ -1,6 +1,6 @@
 </main>
 
-    <footer class="site-footer"></footer> 
+    <footer></footer> 
 
     <?php wp_footer(); ?>
 
