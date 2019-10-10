@@ -1,7 +1,7 @@
 naked-wordpress
 ===============
 
-A well-commented blank Wordpress theme.
+Even more naked now :)
 
 ### Contributors
 - [@andjosh][0] _(maintainer)_
